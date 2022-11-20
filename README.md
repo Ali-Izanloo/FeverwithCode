@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @FeverwithCode
+- 👋 Hi, I’m @Ali
 - 👀 I’m interested in code
 - 📫 How to reach me 12izanloo@gmail.com
 
